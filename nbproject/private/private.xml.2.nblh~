@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <coverage xmlns="http://www.netbeans.org/ns/code-coverage/1" enabled="false"/>
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/1">
+        <file>
+            <url>protected/modules/atencion/views/proceso/uit/_get_tablefactura.php</url>
+            <line>42</line>
+        </file>
+        <file>
+            <url>protected/modules/atencion/views/solicitud/atender/formUit.php</url>
+            <line>105</line>
+        </file>
+        <file>
+            <url>protected/modules/atencion/views/proceso/uit/_uit_bienespatrimoniales.php</url>
+            <line>0</line>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/1">
+        <file>file:/D:/Programas/xampp/htdocs/AppWebAdministracion/protected/modules/atencion/controllers/configuracion/PersonaController.php</file>
+        <file>file:/D:/Programas/xampp/htdocs/AppWebAdministracion/index.php</file>
+        <file>file:/D:/Programas/xampp/htdocs/AppWebAdministracion/protected/config/main.php</file>
+        <file>file:/D:/Programas/xampp/htdocs/AppWebAdministracion/protected/config/test.php</file>
+        <file>file:/D:/Programas/xampp/htdocs/AppWebAdministracion/protected/config/console.php</file>
+        <file>file:/D:/Programas/xampp/htdocs/AppWebAdministracion/.htaccess</file>
+    </open-files>
+</project-private>
